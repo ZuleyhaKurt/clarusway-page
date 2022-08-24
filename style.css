@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pg1{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50rem;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.box1{
+    width: 15%;
+    height: 10%;
+    /* border: 1px solid red; */
+    background-color: black;
+    outline: solid purple;
+    outline-offset: 0.5rem;
+    border-radius: 0 5px 0 5px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.clarusway{
+    color:white;
+    font-size: larger;
+   
+}
+.box2{
+    background-color: aliceblue;
+    text-align: center;
+    height: 15rem;
+    padding: 3rem 3rem 3rem 3rem;
+}
+.box2 h1{
+    padding-bottom: 1rem;
+}
+
+.pg2{
+    width: 100%;
+    height: 50rem;
+    background-image: url(img/bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+
+}
+.pg2 img{
+    width: 25%;
+    height: 15%;
+}
+.box3{
+    background-color:rgb(17, 17, 95) ;
+    text-align: center;
+    height: 15rem;
+    padding: 3rem 3rem 3rem 3rem;
+}
+.box3 p, .box3 h1{
+    color: white;
+    padding-bottom: 1rem;
+}
+.pg3{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50rem;
+    background-image: url(img/bg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.box4{
+    width: 30%;
+    height: 10%;
+    /* border: 1px solid red; */
+    background-color: black;
+    outline: solid purple;
+    outline-offset: 0.5rem;
+    border-radius: 0 5px 0 5px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box4 span{
+    color: white;
+}
+
+.box5{
+    background-color:aliceblue ;
+    text-align: center;
+    height: 15rem;
+    padding: 3rem 3rem 3rem 3rem;
+}
+.box5 h1{
+    padding-bottom: 1rem;
+}
+.pg4{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50rem;
+    background-image: url(img/bg4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.box6{
+    width: 30%;
+    height: 10%;
+    /* border: 1px solid red; */
+    background-color: black;
+    outline: solid purple;
+    outline-offset: 0.5rem;
+    border-radius: 0 5px 0 5px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box6 span {
+    color: white;
+}
+
+.box7{
+    background-color:rgb(17, 17, 95) ;
+    text-align: center;
+    height: 15rem;
+    padding: 3rem 3rem 3rem 3rem;
+}
+.box7 p, .box7 h1{
+    color: white;
+    padding-bottom: 1rem;
+}
+.pg5{ 
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50rem;
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+.box8{
+    width: 30%;
+    height: 10%;
+    /* border: 1px solid red; */
+    background-color: black;
+    outline: solid purple;
+    outline-offset: 0.5rem;
+    border-radius: 0 5px 0 5px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box8 span{
+    color: white;
+}
