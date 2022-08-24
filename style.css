@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+    line-height: 1.8rem;
+    font-weight: 400;
 }
 
 .pg1{
@@ -17,13 +20,12 @@
     background-attachment: fixed;
 }
 .box1{
-    width: 15%;
-    height: 10%;
+    padding: 2rem;
     /* border: 1px solid red; */
     background-color: black;
-    outline: solid purple;
+    outline: 0.5rem inset purple;
     outline-offset: 0.5rem;
-    border-radius: 0 5px 0 5px ;
+    border-radius: 5px 0 5px 0 ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,14 +33,14 @@
 }
 .clarusway{
     color:white;
-    font-size: larger;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
    
 }
 .box2{
-    background-color: aliceblue;
+    background-color: rgb(241, 241, 241);
     text-align: center;
-    height: 15rem;
-    padding: 3rem 3rem 3rem 3rem;
+    padding: 3rem ;
 }
 .box2 h1{
     padding-bottom: 1rem;
@@ -61,10 +63,9 @@
     height: 15%;
 }
 .box3{
-    background-color:rgb(17, 17, 95) ;
+    background-color:#282e34 ;
     text-align: center;
-    height: 15rem;
-    padding: 3rem 3rem 3rem 3rem;
+    padding: 3rem;
 }
 .box3 p, .box3 h1{
     color: white;
@@ -83,26 +84,26 @@
     background-attachment: fixed;
 }
 .box4{
-    width: 30%;
-    height: 10%;
+    padding: 2rem;
     /* border: 1px solid red; */
     background-color: black;
-    outline: solid purple;
+    outline: 0.5rem inset purple;
     outline-offset: 0.5rem;
-    border-radius: 0 5px 0 5px ;
+    border-radius: 5px 0 ;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .box4 span{
+    letter-spacing: 0.5rem;
     color: white;
+    font-size: 3rem;
 }
 
 .box5{
-    background-color:aliceblue ;
+    background-color:rgb(241, 241, 241) ;
     text-align: center;
-    height: 15rem;
-    padding: 3rem 3rem 3rem 3rem;
+    padding: 3rem ;
 }
 .box5 h1{
     padding-bottom: 1rem;
@@ -120,26 +121,26 @@
     background-attachment: fixed;
 }
 .box6{
-    width: 30%;
-    height: 10%;
+   padding: 2rem;
     /* border: 1px solid red; */
     background-color: black;
-    outline: solid purple;
+    outline: 0.5rem inset purple;
     outline-offset: 0.5rem;
-    border-radius: 0 5px 0 5px ;
+    border-radius: 5px 0;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .box6 span {
     color: white;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
 }
 
 .box7{
-    background-color:rgb(17, 17, 95) ;
+    background-color:#282e34 ;
     text-align: center;
-    height: 15rem;
-    padding: 3rem 3rem 3rem 3rem;
+    padding: 3rem ;
 }
 .box7 p, .box7 h1{
     color: white;
@@ -158,17 +159,18 @@
     background-attachment: fixed;
 }
 .box8{
-    width: 30%;
-    height: 10%;
+    padding: 2rem;
     /* border: 1px solid red; */
     background-color: black;
-    outline: solid purple;
+    outline: 0.5rem inset purple;
     outline-offset: 0.5rem;
-    border-radius: 0 5px 0 5px ;
+    border-radius: 5px 0;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .box8 span{
     color: white;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
 }
